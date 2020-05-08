@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "simhash-js": "^1.0.0",
     "string-similarity": "^4.0.1"
   }
 }
